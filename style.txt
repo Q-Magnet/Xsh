@@ -1,2 +1,0 @@
-┌── Wsh {text('$u', 'green')}{text('@$h', 'green')} {text('$p', 'blue')} {text('PID:$P', 'red')}
-└─ 
